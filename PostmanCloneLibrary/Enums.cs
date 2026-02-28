@@ -1,2 +1,2 @@
 ﻿namespace PostmanCloneLibrary;
-public enum HttpAction {GET, POST, PUT, UPDATE, DELETE};
+public enum HttpAction {GET, POST, PUT, PATCH, DELETE};
